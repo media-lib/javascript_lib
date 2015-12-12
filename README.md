@@ -6,4 +6,4 @@ Applicative Functors:
 * [http://buzzdecafe.github.io/](http://buzzdecafe.github.io/)
 
 General:
-* [http://functorial.com/](http://functorial.com/)
+* [http://blog.functorial.com/](http://blog.functorial.com/)
