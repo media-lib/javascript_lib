@@ -7,4 +7,4 @@ Applicative Functors:
 
 General:
 * [http://blog.functorial.com/](http://blog.functorial.com/)
-* https://news.ycombinator.com/item?id=11975560
+* https://news.ycombinator.com/item?id=11975560 -> https://github.com/getify/You-Dont-Know-JS
