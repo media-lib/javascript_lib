@@ -7,3 +7,4 @@ Applicative Functors:
 
 General:
 * [http://blog.functorial.com/](http://blog.functorial.com/)
+* https://news.ycombinator.com/item?id=11975560
