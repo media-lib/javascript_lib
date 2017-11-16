@@ -11,4 +11,5 @@
   * Events, DOM, etc: https://blog.garstasio.com/you-dont-need-jquery/
   * Events and MSIE: https://www.oneupweb.com/blog/2012-01-10-oneupweb-cross-browser-event-binding-without-jquery/
 
+* Websockets: https://zorbash.com/post/phoenix-websockets-under-a-microscope/
 
