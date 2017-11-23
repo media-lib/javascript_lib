@@ -1,4 +1,5 @@
 
+* The Core: 2nd Edition: https://news.ycombinator.com/item?id=15710956
 * Micro-Services for the Front-end: https://micro-frontends.org
 
 * Uploading files with AJAX: https://blog.garstasio.com/you-dont-need-jquery/ajax/
