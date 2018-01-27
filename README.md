@@ -1,4 +1,6 @@
 
+* Stimulus: https://news.ycombinator.com/item?id=16052105
+
 * JS snippets: https://news.ycombinator.com/item?id=15898944
 * The Core: 2nd Edition: https://news.ycombinator.com/item?id=15710956
 * Micro-Services for the Front-end: https://micro-frontends.org
