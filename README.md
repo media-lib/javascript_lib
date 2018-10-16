@@ -1,4 +1,7 @@
 
+* Mastery:
+  * 33 Concepts to Know: https://github.com/leonardomso/33-js-concepts
+
 * Timezones: https://news.ycombinator.com/item?id=17990859
 
 * Stimulus: https://news.ycombinator.com/item?id=16052105
